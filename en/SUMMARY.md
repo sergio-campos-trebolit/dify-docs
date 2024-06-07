@@ -106,6 +106,7 @@
 * [Connecting with Different Tools](tutorials/tool-configuration/README.md)
   * [Stable Diffusion](tutorials/tool-configuration/stable-diffusion.md)
   * [SearXNG](tutorials/tool-configuration/searxng.md)
+* [Making HTTP Requests to Dify Console API (Managing Apps)](tutorials/how-to-request-apps-api.md)
 
 ## Community
 
