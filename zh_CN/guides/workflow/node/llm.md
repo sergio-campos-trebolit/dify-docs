@@ -4,7 +4,7 @@
 
 调用大语言模型回答问题或者对自然语言进行处理。
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>LLM 节点</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>LLM 节点</p></figcaption></figure>
 
 ***
 
@@ -69,7 +69,7 @@ LLM 是 Chatflow/Workflow 的核心节点，利用大语言模型的对话/生�
 
 **会话历史**
 
-为了在文本补全类模型（例如 gpt-3.5-turbo-Instruct）内实现聊天型应用的对话记忆，Dify 在原[提示词专家模式（已下线）](../../application-design/prompt-engineering/prompt-engineering-1/)内设计了会话历史变量，该变量沿用至 Chatflow 的 LLM 节点内，用于在提示词中插入 AI 与用户之间的聊天历史，帮助 LLM 理解对话上文。
+为了在文本补全类模型（例如 gpt-3.5-turbo-Instruct）内实现聊天型应用的对话记忆，Dify 在原[提示词专家模式（已下线）](../../../learn-more/extended-reading/prompt-engineering/prompt-engineering-1/)内设计了会话历史变量，该变量沿用至 Chatflow 的 LLM 节点内，用于在提示词中插入 AI 与用户之间的聊天历史，帮助 LLM 理解对话上文。
 
 {% hint style="info" %}
 会话历史变量应用并不广泛，仅在 Chatflow 中选择文本补全类模型时可以插入使用。

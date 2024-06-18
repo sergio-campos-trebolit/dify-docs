@@ -1,6 +1,6 @@
 # 模型
 
-Dify 是基于大语言模型的 AI 应用开发平台，初次使用时你需要先在 Dify 的 「设置 > 模型供应商」 页面内添加并配置所需要的模型。
+Dify 是基于大语言模型的 AI 应用开发平台，初次使用时你需要先在 Dify 的 **设置 -- 模型供应商** 页面内添加并配置所需要的模型。
 
 <figure><img src="../../.gitbook/assets/image (165).png" alt=""><figcaption><p>设置-模型供应商</p></figcaption></figure>
 
@@ -35,7 +35,7 @@ Dify 目前已支持主流的模型供应商，例如 OpenAI 的 GPT 系列、An
 
 Dify 在需要模型时，会根据使用场景来选择设置过的默认模型。在 `设置 > 模型供应商` 中设置默认模型。
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 接入模型设置
 

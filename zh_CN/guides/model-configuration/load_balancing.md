@@ -6,7 +6,7 @@
 
 你可以在 **模型供应商 -- 模型列表 -- 设置模型负载均衡** 打开该功能，并在同一个模型上添加多个凭据 (API key)。
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt="" width="563"><figcaption><p>模型负载均衡</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" width="563"><figcaption><p>模型负载均衡</p></figcaption></figure>
 
 {% hint style="info" %}
 模型负载均衡为付费特性，您可以通过[订阅 SaaS 付费服务](../../getting-started/cloud.md#ding-yue-ji-hua)或者购买企业版来开启该功能。
@@ -14,7 +14,7 @@
 
 默认配置中的 API Key 为初次配置模型供应商时添加的凭据，您需要点击 **增加配置** 添加同一模型的不同 API Key 来正常使用负载均衡功能。
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt="" width="563"><figcaption><p>配置负载均衡</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt="" width="563"><figcaption><p>配置负载均衡</p></figcaption></figure>
 
 **需要额外添加至少 1 个模型凭据**即可保存并开启负载均衡。
 

@@ -53,7 +53,7 @@
 
 通过进入“应用构建->日志与标注->标注”开启标注回复开关：
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>日志与标注中开启标注回复</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>日志与标注中开启标注回复</p></figcaption></figure>
 
 ### 在标注后台设置标注回复参数
 
