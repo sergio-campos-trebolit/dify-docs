@@ -20,6 +20,25 @@ openssl rand -base64 42
 
 ## Obtaining the X-WORKSPACE-ID
 
+### Using the Dify API
+
+You can obtain the `X-WORKSPACE-ID` by sending a `GET` request to the `/console/api/workspaces` endpoint. The response will include a list of workspaces with their IDs.
+```http
+GET /console/api/workspaces
+Authorization: Bearer <your_unique_api_key>
+Accept: application/json
+```
+
+In case you are using a self-hosted Dify instance, you can use the following cURL command to get the workspace ID:
+
+```sh
+curl -X GET "http://<your_dify_host>/console/api/workspaces" \
+-H "Authorization: Bearer <your_ unique_api_key>" \
+-H "Accept: application/json" | jq -r '.workspaces[0].id'
+```
+
+### Using the Dify Console and Browser Developer Tools
+
 To obtain the `X-WORKSPACE-ID`, you can use your browser's developer tools:
 
 1. Open your browser and navigate to the Dify application.
